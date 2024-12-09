@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buildriseshine/api/reactjs/weather/static/css/main.5507dca6.css",
+    "main.js": "/buildriseshine/api/reactjs/weather/static/js/main.bbace784.js",
+    "static/js/453.815e5fc3.chunk.js": "/buildriseshine/api/reactjs/weather/static/js/453.815e5fc3.chunk.js",
+    "index.html": "/buildriseshine/api/reactjs/weather/index.html",
+    "main.5507dca6.css.map": "/buildriseshine/api/reactjs/weather/static/css/main.5507dca6.css.map",
+    "main.bbace784.js.map": "/buildriseshine/api/reactjs/weather/static/js/main.bbace784.js.map",
+    "453.815e5fc3.chunk.js.map": "/buildriseshine/api/reactjs/weather/static/js/453.815e5fc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5507dca6.css",
+    "static/js/main.bbace784.js"
+  ]
+}
